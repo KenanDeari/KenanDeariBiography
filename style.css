@@ -181,7 +181,6 @@ body {
 /* email line css settings */
 .footer .footer-center i.fa-envelope {
   font-size: 20px;
-  line-height: 358x;
   margin-left: 5px;
   text-align: center;
 }
@@ -282,7 +281,7 @@ body {
   background-color: green; /* Green */
   border: 6px groove white;
   color: black;
-  font-weight: 650;
+  font-weight: 500;
   padding: 13px 29px;
   text-align: center;
   text-decoration: none;
